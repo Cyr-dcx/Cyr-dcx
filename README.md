@@ -1,5 +1,5 @@
 ### Hi there 👋
-- ⚡ I’m currently a student at Openclassrooms as Machine Learning Engineer
+- ⚡ I’m currently student at Openclassrooms as Machine Learning Engineer
 - 😄 I’m a data scientist at RATP group
 
 <!--
