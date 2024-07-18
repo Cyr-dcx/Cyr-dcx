@@ -1,6 +1,6 @@
 ### Hi there 👋
-- ⚡ I’m currently student at Openclassrooms as Machine Learning Engineer
-- 😄 I’m a data scientist trainee at RATP group
+- ⚡ Recently graduated as Machine Learning Engeneer, I am looking for the next opportunity
+- 😄 My last job : data scientist at RATP group
 
 <!--
 **Cyr-dcx/Cyr-dcx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
