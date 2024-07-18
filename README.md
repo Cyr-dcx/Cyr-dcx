@@ -1,5 +1,5 @@
 ### Hi there 👋
-- ⚡ Recently graduated as Machine Learning Engeneer, I am looking for the next opportunity
+- ⚡ Recently graduated as Machine Learning Engineer, I am looking for the next opportunity
 - 😄 My last job : data scientist at RATP group
 
 <!--
